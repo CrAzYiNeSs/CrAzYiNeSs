@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# and Blender.
 - 💞️ I’m looking to collaborate on my Unity VR title, and contributing to other small projects.
 - 📫 How to reach me ...
-Discord: CrAzY(POUND-SIGN)3398
+- Discord: CrAzY(POUND-SIGN)3398
 
 <!---
 CrAzYiNeSs/CrAzYiNeSs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
